@@ -1,0 +1,37 @@
+{
+  "name": "Image Tech Studio",
+  "short_name": "Image Tech Studio",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "icon512_maskable.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon512_maskable.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon512_maskable.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "icon512_maskable.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "icon512_maskable.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
